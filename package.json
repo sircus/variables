@@ -1,0 +1,28 @@
+{
+  "name": "sircus-variables",
+  "description": "Variables Module for Manage to CSS Colors, Sizes and Fonts Use in Sircus.",
+  "version": "0.0.0",
+  "homepage": "http://sircus.github.io",
+  "keywords": [
+    "css",
+    "design",
+    "modular",
+    "scalable",
+    "rwd"
+  ],
+  "author": {
+    "name": "blivesta",
+    "url": "http://blivesta.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sircus/variables.git"
+  },
+  "scripts": {
+    "build": "css2scss ./index.css ./_converted.scss"
+  },
+  "devDependencies": {
+    "sircus-process-css2scss": "^0.2.0"
+  }
+}
