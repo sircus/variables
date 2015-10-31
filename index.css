@@ -3,6 +3,7 @@
   --g-gray-80:  #424242;
   --g-gray-60:  #757575;
   --g-gray-40:  #BDBDBD;
+  --g-gray-30:  #DDDDDD;
   --g-gray-20:  #EEEEEE;
   --g-gray-10:  #F5F5F5;
   --g-gray-5:   #FAFAFA;
@@ -91,7 +92,7 @@
   --g-fontWeight-lighter: 200;
 
 
-  --g-borderColor: var(--g-gray-20);
+  --g-borderColor: var(--g-gray-30);
   --g-borderStyle: solid;
   --g-borderSize : 1px;
   --g-border: var(--g-borderSize) var(--g-borderStyle) var(--g-borderColor);
