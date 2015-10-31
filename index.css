@@ -40,10 +40,11 @@
   --g-space: var(--g-space-md);
 
 
-  --g-borderRadius-xl: 6px;
-  --g-borderRadius-lg: 5px;
+  --g-borderRadius-xl: 8px;
+  --g-borderRadius-lg: 6px;
   --g-borderRadius-md: 4px;
   --g-borderRadius-sm: 3px;
+  --g-borderRadius-xs: 2px;
   --g-borderRadius: var(--g-borderRadius-md);
 
 
